@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ruso1234
 - 👀 I’m interested in  Coding
 - 🌱 I’m currently learning web Devolopment
+- 👍  Coding to the core
 
 <!---
 ruso1234/ruso1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
