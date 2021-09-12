@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ruso1234
+- 👋 Hi, I’m @ruso
 - 👀 I’m interested in  Coding
 - 🌱 I’m currently learning web Devolopment
 - 👍  Coding to the core
